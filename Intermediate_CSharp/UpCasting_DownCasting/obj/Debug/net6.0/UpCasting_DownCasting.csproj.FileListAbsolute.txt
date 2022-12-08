@@ -1,0 +1,15 @@
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.csproj.AssemblyReference.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.AssemblyInfoInputs.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.AssemblyInfo.cs
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.csproj.CoreCompileInputs.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\bin\Debug\net6.0\UpCasting_DownCasting.exe
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\bin\Debug\net6.0\UpCasting_DownCasting.deps.json
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\bin\Debug\net6.0\UpCasting_DownCasting.runtimeconfig.json
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\bin\Debug\net6.0\UpCasting_DownCasting.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\bin\Debug\net6.0\UpCasting_DownCasting.pdb
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\obj\Debug\net6.0\refint\UpCasting_DownCasting.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.pdb
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.genruntimeconfig.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\UpCasting_DownCasting\obj\Debug\net6.0\ref\UpCasting_DownCasting.dll

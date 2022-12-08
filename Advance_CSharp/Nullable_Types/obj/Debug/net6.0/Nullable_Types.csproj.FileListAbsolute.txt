@@ -1,0 +1,15 @@
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\bin\Debug\net6.0\Nullable_Types.exe
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\bin\Debug\net6.0\Nullable_Types.deps.json
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\bin\Debug\net6.0\Nullable_Types.runtimeconfig.json
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\bin\Debug\net6.0\Nullable_Types.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\bin\Debug\net6.0\Nullable_Types.pdb
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\obj\Debug\net6.0\Nullable_Types.csproj.AssemblyReference.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\obj\Debug\net6.0\Nullable_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\obj\Debug\net6.0\Nullable_Types.AssemblyInfoInputs.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\obj\Debug\net6.0\Nullable_Types.AssemblyInfo.cs
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\obj\Debug\net6.0\Nullable_Types.csproj.CoreCompileInputs.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\obj\Debug\net6.0\Nullable_Types.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\obj\Debug\net6.0\refint\Nullable_Types.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\obj\Debug\net6.0\Nullable_Types.pdb
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\obj\Debug\net6.0\Nullable_Types.genruntimeconfig.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Nullable_Types\obj\Debug\net6.0\ref\Nullable_Types.dll

@@ -1,0 +1,15 @@
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.exe
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.deps.json
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.runtimeconfig.json
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.dll
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.pdb
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.AssemblyInfo.cs
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.dll
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\obj\Debug\net6.0\refint\Directory_DirectoryInfo.dll
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.pdb
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.genruntimeconfig.cache
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\Directory_DirectoryInfo\obj\Debug\net6.0\ref\Directory_DirectoryInfo.dll

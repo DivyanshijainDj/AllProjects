@@ -1,0 +1,15 @@
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\bin\Debug\net6.0\File_FileInfo.exe
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\bin\Debug\net6.0\File_FileInfo.deps.json
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\bin\Debug\net6.0\File_FileInfo.runtimeconfig.json
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\bin\Debug\net6.0\File_FileInfo.dll
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\bin\Debug\net6.0\File_FileInfo.pdb
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\obj\Debug\net6.0\File_FileInfo.csproj.AssemblyReference.cache
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\obj\Debug\net6.0\File_FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\obj\Debug\net6.0\File_FileInfo.AssemblyInfoInputs.cache
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\obj\Debug\net6.0\File_FileInfo.AssemblyInfo.cs
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\obj\Debug\net6.0\File_FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\obj\Debug\net6.0\File_FileInfo.dll
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\obj\Debug\net6.0\refint\File_FileInfo.dll
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\obj\Debug\net6.0\File_FileInfo.pdb
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\obj\Debug\net6.0\File_FileInfo.genruntimeconfig.cache
+C:\Users\coditas\source\repos\Beginners_Csharp\Beginner_CSharp\File_FileInfo\obj\Debug\net6.0\ref\File_FileInfo.dll

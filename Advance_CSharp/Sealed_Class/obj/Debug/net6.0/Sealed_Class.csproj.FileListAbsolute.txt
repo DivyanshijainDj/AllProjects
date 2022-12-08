@@ -1,0 +1,15 @@
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\bin\Debug\net6.0\Sealed_Class.exe
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\bin\Debug\net6.0\Sealed_Class.deps.json
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\bin\Debug\net6.0\Sealed_Class.runtimeconfig.json
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\bin\Debug\net6.0\Sealed_Class.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\bin\Debug\net6.0\Sealed_Class.pdb
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\obj\Debug\net6.0\Sealed_Class.csproj.AssemblyReference.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\obj\Debug\net6.0\Sealed_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\obj\Debug\net6.0\Sealed_Class.AssemblyInfoInputs.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\obj\Debug\net6.0\Sealed_Class.AssemblyInfo.cs
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\obj\Debug\net6.0\Sealed_Class.csproj.CoreCompileInputs.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\obj\Debug\net6.0\Sealed_Class.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\obj\Debug\net6.0\refint\Sealed_Class.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\obj\Debug\net6.0\Sealed_Class.pdb
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\obj\Debug\net6.0\Sealed_Class.genruntimeconfig.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Sealed_Class\obj\Debug\net6.0\ref\Sealed_Class.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Working_With_Dates/1.0.0": {
+        "runtime": {
+          "Working_With_Dates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Working_With_Dates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

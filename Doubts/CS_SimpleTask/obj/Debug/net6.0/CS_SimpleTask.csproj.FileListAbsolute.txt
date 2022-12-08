@@ -1,0 +1,15 @@
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\bin\Debug\net6.0\CS_SimpleTask.exe
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\bin\Debug\net6.0\CS_SimpleTask.deps.json
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\bin\Debug\net6.0\CS_SimpleTask.runtimeconfig.json
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\bin\Debug\net6.0\CS_SimpleTask.dll
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\bin\Debug\net6.0\CS_SimpleTask.pdb
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\obj\Debug\net6.0\CS_SimpleTask.csproj.AssemblyReference.cache
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\obj\Debug\net6.0\CS_SimpleTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\obj\Debug\net6.0\CS_SimpleTask.AssemblyInfoInputs.cache
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\obj\Debug\net6.0\CS_SimpleTask.AssemblyInfo.cs
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\obj\Debug\net6.0\CS_SimpleTask.csproj.CoreCompileInputs.cache
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\obj\Debug\net6.0\CS_SimpleTask.dll
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\obj\Debug\net6.0\refint\CS_SimpleTask.dll
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\obj\Debug\net6.0\CS_SimpleTask.pdb
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\obj\Debug\net6.0\CS_SimpleTask.genruntimeconfig.cache
+C:\Users\coditas\source\repos\solution\CS_SimpleTask\obj\Debug\net6.0\ref\CS_SimpleTask.dll

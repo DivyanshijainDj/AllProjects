@@ -1,0 +1,15 @@
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\bin\Debug\net6.0\Method_overiding.exe
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\bin\Debug\net6.0\Method_overiding.deps.json
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\bin\Debug\net6.0\Method_overiding.runtimeconfig.json
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\bin\Debug\net6.0\Method_overiding.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\bin\Debug\net6.0\Method_overiding.pdb
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\obj\Debug\net6.0\Method_overiding.csproj.AssemblyReference.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\obj\Debug\net6.0\Method_overiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\obj\Debug\net6.0\Method_overiding.AssemblyInfoInputs.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\obj\Debug\net6.0\Method_overiding.AssemblyInfo.cs
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\obj\Debug\net6.0\Method_overiding.csproj.CoreCompileInputs.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\obj\Debug\net6.0\Method_overiding.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\obj\Debug\net6.0\refint\Method_overiding.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\obj\Debug\net6.0\Method_overiding.pdb
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\obj\Debug\net6.0\Method_overiding.genruntimeconfig.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Method_overiding\obj\Debug\net6.0\ref\Method_overiding.dll

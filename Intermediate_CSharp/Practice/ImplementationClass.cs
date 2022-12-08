@@ -1,0 +1,10 @@
+﻿
+
+public class ImplementationClass : ISampleInterface
+{
+    
+
+    
+}
+
+   

@@ -1,0 +1,15 @@
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\bin\Debug\net6.0\Extension_methods.exe
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\bin\Debug\net6.0\Extension_methods.deps.json
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\bin\Debug\net6.0\Extension_methods.runtimeconfig.json
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\bin\Debug\net6.0\Extension_methods.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\bin\Debug\net6.0\Extension_methods.pdb
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\obj\Debug\net6.0\Extension_methods.csproj.AssemblyReference.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\obj\Debug\net6.0\Extension_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\obj\Debug\net6.0\Extension_methods.AssemblyInfoInputs.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\obj\Debug\net6.0\Extension_methods.AssemblyInfo.cs
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\obj\Debug\net6.0\Extension_methods.csproj.CoreCompileInputs.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\obj\Debug\net6.0\Extension_methods.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\obj\Debug\net6.0\refint\Extension_methods.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\obj\Debug\net6.0\Extension_methods.pdb
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\obj\Debug\net6.0\Extension_methods.genruntimeconfig.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Extension_methods\obj\Debug\net6.0\ref\Extension_methods.dll

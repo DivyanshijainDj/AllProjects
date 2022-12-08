@@ -1,0 +1,15 @@
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\bin\Debug\net6.0\Constructor_inheritance.exe
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\bin\Debug\net6.0\Constructor_inheritance.deps.json
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\bin\Debug\net6.0\Constructor_inheritance.runtimeconfig.json
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\bin\Debug\net6.0\Constructor_inheritance.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\bin\Debug\net6.0\Constructor_inheritance.pdb
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\obj\Debug\net6.0\Constructor_inheritance.csproj.AssemblyReference.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\obj\Debug\net6.0\Constructor_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\obj\Debug\net6.0\Constructor_inheritance.AssemblyInfoInputs.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\obj\Debug\net6.0\Constructor_inheritance.AssemblyInfo.cs
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\obj\Debug\net6.0\Constructor_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\obj\Debug\net6.0\Constructor_inheritance.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\obj\Debug\net6.0\refint\Constructor_inheritance.dll
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\obj\Debug\net6.0\Constructor_inheritance.pdb
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\obj\Debug\net6.0\Constructor_inheritance.genruntimeconfig.cache
+C:\Users\coditas\source\repos\DotNet_course\Intermediate_CSharp\Constructors\Constructor_inheritance\obj\Debug\net6.0\ref\Constructor_inheritance.dll
